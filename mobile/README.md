@@ -62,6 +62,7 @@
   - Canal de Youtube: [philipp lackner](https://www.youtube.com/@PhilippLackner)
 - **Simplified Coding** es un ponente Indhú que no solo hace tutoriales de Android, también pone en práctica las buenas prácticas de Ingeniería de Software en conjunto con los proyectos tutorial que desarrolla.
   - Canal de Youtube: [simplified coding](https://www.youtube.com/@SimplifiedCoding)
+- **Kotlin Coding Challenges** es un repositorio con problemas de programación para practicar [Kotlin](https://github.com/igorwojda/kotlin-coding-challenges).
 - **Hyperskill** es una academia de aprendizaje, aquí puedes reforzar el dominio de Kotlin. [Kotlin Academy](https://hyperskill.org/tracks?category=4)
 - **Kotlin Koans** es un curso de aprendizaje de Kotlin desarrollado por JetBrains la empresa fundadora del lenguaje. [Kotlin Koans](https://kotlinlang.org/docs/koans.html)
 - **Kotlin Docs** es la página oficial del lenguaje de Kotlin, aquí podrás encontrar el manual y API de Kotlin, si tienes dudas sobre alguna sintáxis de los datos básicos no dudes en consultarla. [Kotlin docs](https://kotlinlang.org/docs/home.html)
